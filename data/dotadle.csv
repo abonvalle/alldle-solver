@@ -1,0 +1,125 @@
+_heroId,Hero,Gender,Species,Attribute,Position(s),Range type,Complexity,Release year
+102,Abaddon,Male,Undead;Wraith,Universal,Offlane;Support;Hard Support,Melee,Easy,2005
+73,Alchemist,Male,Keen;Ogre,Strength,Carry;Midlane;Offlane,Melee,Easy,2006
+68,Ancient Apparition,Male,Elemental,Intelligence,Support;Hard Support,Ranged,Medium,2009
+1,Anti-Mage,Male,Human,Agility,Carry,Melee,Easy,2004
+113,Arc Warden,Other,Ancient,Agility,Midlane,Ranged,Hard,2012
+2,Axe,Male,Oglodi,Strength,Offlane,Melee,Easy,2005
+3,Bane,Male,Elemental,Universal,Support;Hard Support,Ranged,Medium,2004
+65,Batrider,Male,Troll,Universal,Midlane;Support;Hard Support,Ranged,Medium,2009
+38,Beastmaster,Male,Human,Universal,Offlane,Melee,Medium,2006
+4,Bloodseeker,Male,Human,Agility,Carry,Melee,Easy,2005
+62,Bounty Hunter,Male,Unknown,Agility,Support;Hard Support,Melee,Easy,2004
+78,Brewmaster,Male,Celestial,Universal,Offlane,Melee,Hard,2004
+99,Bristleback,Male,Unknown,Strength,Offlane,Melee,Easy,2005
+61,Broodmother,Female,Spider,Universal,Midlane;Offlane,Melee,Medium,2004
+96,Centaur Warrunner,Male,Centaur,Strength,Offlane,Melee,Easy,2004
+81,Chaos Knight,Male,Fundamental;Demon,Strength,Carry;Offlane,Melee,Easy,2004
+66,Chen,Male,Human,Universal,Support;Hard Support,Ranged,Hard,2004
+56,Clinkz,Male,Unknown;Undead,Agility,Midlane;Support,Ranged,Medium,2004
+51,Clockwerk,Male,Keen,Universal,Offlane;Support;Hard Support,Melee,Medium,2008
+5,Crystal Maiden,Female,Human,Intelligence,Support;Hard Support,Ranged,Easy,2004
+55,Dark Seer,Male,Outer Being,Universal,Offlane;Support,Melee,Easy,2007
+119,Dark Willow,Female,Fae,Universal,Support;Hard Support,Ranged,Medium,2017
+135,Dawnbreaker,Female,Star,Strength,Offlane,Melee,Easy,2021
+50,Dazzle,Male,Troll,Universal,Support;Hard Support,Ranged,Easy,2005
+43,Death Prophet,Female,Undead;Wraith,Intelligence,Midlane;Offlane,Ranged,Easy,2004
+87,Disruptor,Male,Oglodi,Intelligence,Support;Hard Support,Ranged,Medium,2007
+69,Doom,Male,Demon,Strength,Offlane,Melee,Medium,2004
+49,Dragon Knight,Male,Dragon;Human,Strength,Midlane;Offlane,Melee,Easy,2004
+6,Drow Ranger,Female,Human;Undead,Agility,Carry,Ranged,Easy,2004
+107,Earth Spirit,Male,Celestial,Strength,Midlane;Support,Melee,Hard,2013
+7,Earthshaker,Male,Elemental,Strength,Offlane;Support,Melee,Medium,2005
+103,Elder Titan,Male,Titan,Strength,Offlane;Support;Hard Support,Melee,Medium,2009
+106,Ember Spirit,Male,Celestial,Agility,Midlane,Melee,Medium,2011
+58,Enchantress,Female,Unknown,Intelligence,Support;Hard Support,Ranged,Medium,2005
+33,Enigma,Other,Fundamental,Universal,Offlane;Support;Hard Support,Ranged,Medium,2005
+41,Faceless Void,Male,Outer Being,Agility,Carry,Melee,Medium,2004
+121,Grimstroke,Male,Human;Magically altered,Intelligence,Support;Hard Support,Ranged,Medium,2018
+72,Gyrocopter,Male,Keen,Agility,Carry,Ranged,Easy,2010
+123,Hoodwink,Female,Unknown,Agility,Support;Hard Support,Ranged,Medium,2020
+59,Huskar,Male,Troll,Strength,Midlane;Offlane,Ranged,Easy,2007
+74,Invoker,Male,Human;Magicborn,Universal,Midlane;Support,Ranged,Hard,2005
+91,Io,Other,Fundamental,Universal,Support;Hard Support,Ranged,Hard,2010
+64,Jakiro,Male,Dragon,Intelligence,Support;Hard Support,Ranged,Easy,2006
+8,Juggernaut,Male,Human;Masked One,Agility,Carry,Melee,Easy,2004
+90,Keeper of the Light,Male,Human;Fundamental,Intelligence,Support;Hard Support,Ranged,Medium,2004
+23,Kunkka,Male,Human,Strength,Midlane;Offlane,Melee,Medium,2008
+104,Legion Commander,Female,Human,Strength,Offlane,Melee,Easy,2011
+52,Leshrac,Male,Elemental,Intelligence,Midlane,Ranged,Easy,2004
+31,Lich,Male,Undead,Intelligence,Support;Hard Support,Ranged,Easy,2004
+54,Lifestealer,Male,Oglodi,Strength,Carry;Offlane,Melee,Medium,2004
+25,Lina,Female,Human,Intelligence,Midlane;Support,Ranged,Easy,2004
+26,Lion,Male,Demon,Intelligence,Support;Hard Support,Ranged,Easy,2004
+80,Lone Druid,Male,Human;Druid,Universal,Midlane;Offlane,Ranged,Hard,2004
+48,Luna,Female,Human,Agility,Carry,Ranged,Easy,2004
+77,Lycan,Male,Human;Wolf,Universal,Offlane,Melee,Medium,2004
+97,Magnus,Male,Magnoceros,Universal,Offlane,Melee,Medium,2004
+136,Marci,Female,Human,Universal,Offlane;Support;Hard Support,Melee,Medium,2021
+129,Mars,Male,God,Strength,Offlane,Melee,Easy,2019
+94,Medusa,Female,Gorgon,Agility,Carry;Midlane,Ranged,Easy,2004
+82,Meepo,Male,Unknown,Agility,Midlane,Melee,Hard,2007
+9,Mirana,Female,Human,Universal,Support;Hard Support,Ranged,Medium,2006
+114,Monkey King,Male,God;Monkey,Agility,Carry;Midlane,Melee,Medium,2016
+10,Morphling,Other,Elemental,Agility,Carry;Midlane,Ranged,Hard,2004
+138,Muerta,Female,Undead;Wraith,Intelligence,Carry;Midlane,Ranged,Easy,2023
+89,Naga Siren,Female,Meranth,Agility,Carry,Melee,Medium,2004
+53,Nature's Prophet,Male,Nature's Prophet,Intelligence,Support;Hard Support,Ranged,Medium,2004
+36,Necrophos,Male,Human;Magically altered;Undead,Intelligence,Midlane;Offlane,Ranged,Easy,2004
+60,Night Stalker,Male,Creature of Darkness,Strength,Offlane,Melee,Easy,2004
+88,Nyx Assassin,Male,Scarab,Universal,Support;Hard Support,Melee,Medium,2004
+84,Ogre Magi,Male,Ogre,Strength,Support;Hard Support,Melee,Easy,2004
+57,Omniknight,Male,Human,Strength,Offlane;Support,Melee,Easy,2004
+111,Oracle,Male,Outer Being,Intelligence,Support;Hard Support,Ranged,Hard,2012
+76,Outworld Destroyer,Male,Outer Being,Intelligence,Midlane,Ranged,Medium,2006
+120,Pangolier,Male,Pangolier,Universal,Midlane;Offlane,Melee,Medium,2017
+44,Phantom Assassin,Female,Human,Agility,Carry,Melee,Easy,2004
+12,Phantom Lancer,Male,Unknown,Agility,Carry,Melee,Medium,2005
+110,Phoenix,Other,Star,Universal,Support;Hard Support,Ranged,Medium,2010
+137,Primal Beast,Male,Outer Being,Strength,Midlane;Offlane,Melee,Easy,2022
+13,Puck,Other,Fae;Dragon,Intelligence,Midlane,Ranged,Medium,2007
+14,Pudge,Male,Human;Undead,Strength,Offlane;Support;Hard Support,Melee,Medium,2004
+45,Pugna,Male,Nether Being,Intelligence,Support;Hard Support,Ranged,Medium,2004
+39,Queen of Pain,Female,Demon,Intelligence,Midlane,Ranged,Medium,2004
+15,Razor,Male,Revenant,Agility,Carry;Midlane;Offlane,Ranged,Easy,2004
+32,Riki,Male,Satyr,Agility,Carry,Melee,Easy,2004
+86,Rubick,Male,Unknown,Intelligence,Support;Hard Support,Ranged,Hard,2011
+16,Sand King,Male,Elemental,Universal,Offlane,Melee,Medium,2004
+79,Shadow Demon,Male,Demon,Intelligence,Support;Hard Support,Ranged,Medium,2010
+11,Shadow Fiend,Male,Demon,Agility,Carry;Midlane,Ranged,Medium,2005
+27,Shadow Shaman,Male,Troll,Intelligence,Support;Hard Support,Ranged,Easy,2004
+75,Silencer,Male,Human,Intelligence,Midlane;Support;Hard Support,Ranged,Medium,2004
+101,Skywrath Mage,Male,Skywrath,Intelligence,Support;Hard Support,Ranged,Easy,2011
+28,Slardar,Male,Meranth,Strength,Offlane,Melee,Easy,2004
+93,Slark,Male,Meranth,Agility,Carry,Melee,Medium,2009
+128,Snapfire,Female,Keen;Dragon,Universal,Midlane;Support;Hard Support,Ranged,Easy,2019
+35,Sniper,Male,Keen,Agility,Carry;Midlane,Ranged,Easy,2004
+67,Spectre,Female,Demon,Agility,Carry,Melee,Medium,2006
+71,Spirit Breaker,Male,Elemental,Strength,Offlane;Support,Melee,Easy,2005
+17,Storm Spirit,Male,Celestial,Intelligence,Midlane,Ranged,Medium,2007
+18,Sven,Male,Human;Meranth,Strength,Carry,Melee,Easy,2004
+105,Techies,Male,Keen,Universal,Support;Hard Support,Ranged,Medium,2004
+46,Templar Assassin,Female,Human;Magicborn,Agility,Carry;Midlane,Ranged,Medium,2007
+109,Terrorblade,Male,Demon,Agility,Carry,Melee,Medium,2004
+29,Tidehunter,Male,Meranth,Strength,Offlane,Melee,Easy,2004
+98,Timbersaw,Male,Keen,Strength,Midlane;Offlane,Melee,Medium,2011
+34,Tinker,Male,Keen,Intelligence,Midlane,Ranged,Medium,2004
+19,Tiny,Male,Giant,Strength,Midlane;Offlane;Support,Melee,Medium,2005
+83,Treant Protector,Male,Treant,Strength,Support;Hard Support,Melee,Medium,2004
+95,Troll Warlord,Male,Troll,Agility,Carry,Melee;Ranged,Medium,2004
+100,Tusk,Male,Tusk,Strength,Offlane;Support,Melee,Easy,2010
+108,Underlord,Male,Demon,Strength,Offlane,Melee,Medium,2007
+85,Undying,Male,Undead,Strength,Offlane;Support;Hard Support,Melee,Easy,2007
+70,Ursa,Male,Ursa,Agility,Carry,Melee,Easy,2004
+20,Vengeful Spirit,Female,Skywrath,Universal,Support;Hard Support,Ranged,Easy,2004
+40,Venomancer,Male,Venomancer,Universal,Support;Hard Support,Ranged,Easy,2004
+47,Viper,Male,Nether Being;Dragon,Agility,Midlane;Offlane,Ranged,Easy,2004
+92,Visage,Male,Undead;Gargoyle,Universal,Midlane;Offlane,Ranged,Hard,2004
+126,Void Spirit,Male,Celestial,Universal,Midlane,Melee,Medium,2019
+37,Warlock,Male,Oglodi,Intelligence,Support;Hard Support,Ranged,Easy,2006
+63,Weaver,Male,Weaver,Agility,Carry,Ranged,Medium,2005
+21,Windranger,Female,Human,Universal,Midlane;Offlane;Support,Ranged,Medium,2008
+112,Winter Wyvern,Female,Dragon,Universal,Support;Hard Support,Ranged,Medium,2012
+30,Witch Doctor,Male,Troll,Intelligence,Support;Hard Support,Ranged,Easy,2006
+42,Wraith King,Male,Undead;Wraith,Strength,Carry;Offlane,Melee,Easy,2004
+22,Zeus,Male,God,Intelligence,Midlane;Support,Ranged,Easy,2004
