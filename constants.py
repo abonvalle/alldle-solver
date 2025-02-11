@@ -1,4 +1,5 @@
 from custom_types import GamePropertyClass, GameClass
+from bcolors import bcolors
 
 LODLE_PROPERTIES :list[GamePropertyClass] = [
     {"name":"Champion","type":"guess"},
@@ -68,3 +69,10 @@ AVAILABLE_GAMES: list[GameClass] = [
     {"id":4, "name":'Smashdle',"properties":SMASHDLE_PROPERTIES, "dataPath": "data/smashdle.csv"},
     {"id":5, "name":'Narutodle',"properties":NARUTODLE_PROPERTIES, "dataPath": "data/narutodle.csv"},
     {"id":6, "name":'Dotadle',"properties":DOTADLE_PROPERTIES, "dataPath": "data/dotadle.csv"}]
+
+FEEDBACKS={
+    "correct":{"letter":"T", "label":f"{bcolors.BOLD}{bcolors.OKGREEN}T{bcolors.ENDC}","description":"Correct"},
+    "partial":{"letter":"P", "label":f"{bcolors.BOLD}{bcolors.WARNING}P{bcolors.ENDC}","description":"Partial"},
+    "incorrect":{"letter":"F", "label":f"{bcolors.BOLD}{bcolors.FAIL}F{bcolors.ENDC}","description":"Incorrect"},
+    "greater":{"letter":"G", "label":f"{bcolors.BOLD}{bcolors.FAIL}G{bcolors.ENDC}","description":"Greater"},
+    "lower":{"letter":"L", "label":f"{bcolors.BOLD}{bcolors.FAIL}L{bcolors.ENDC}","description":"Lower"}}
