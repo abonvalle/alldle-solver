@@ -1,7 +1,7 @@
 # All "dle" Game Solver
 
 This project was originaly a basic Python-based **Loldle.net** solver. I made it more generic to solve other games of the same author **Onepiecedle.net**, **Pokedle.net**, ...
-The game requires players to guess a Game or Annime character daily based on multiple properties. Each guess receives feedback indicating whether each property is **correct (G)**, **incorrect (R)**, **partially correct (O)**, or for ranges, **lower (L) / higher (H)**.
+The game requires players to guess a Game or Annime character daily based on multiple properties. Each guess receives feedback indicating whether each property is **correct (T)**, **incorrect (F)**, **partially correct (P)**, or for ranges, **lower (L) / greater (G)**.
 
 ## Features
 
@@ -51,11 +51,11 @@ python3 app.py -g Loldle -s Singed
 
 1. Run the script and use the suggested first guess.
 2. Enter the feedback for each property:
-   - **G** → Correct.
-   - **R** → Incorrect.
-   - **O** → Partially correct (e.g., Color = Red, but actual character has Red & Blue).
+   - **T** → Correct.
+   - **F** → Incorrect.
+   - **P** → Partially correct (e.g., Color = Red, but actual character has Red & Blue).
    - **L** → Number is **lower** than guessed.
-   - **H** → Number is **higher** than guessed.
+   - **G** → Number is **greater** than guessed.
 3. The script will suggest the next best guess.
 4. Repeat until the correct character is found!
 
@@ -64,7 +64,7 @@ python3 app.py -g Loldle -s Singed
 ```sh
 Playing Loldle
 Best initial guess: Zilean
-Enter feedback: RROGRRH
+Enter feedback: FFPTFFG
 Candidates left after filtering: 9
 Next best guess: Vi
 GRGGGRG
