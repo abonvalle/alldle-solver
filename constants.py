@@ -45,8 +45,7 @@ NARUTODLE_PROPERTIES:list[GamePropertyClass]  = [
     {"name":"Character","type":"guess"},
     {"name":"Gender","type":"exact"},
     {"name":"Affiliations","type":"exact"},
-    {"name":"Universe","type":"exact"},
-    {"name":"Juju types","type":"exact"},
+    {"name":"Jutsu types","type":"exact"},
     {"name":"Kekkei genkai","type":"exact"},
     {"name":"Nature types","type":"exact"},
     {"name":"Attributes","type":"exact"},
@@ -65,7 +64,7 @@ DOTADLE_PROPERTIES:list[GamePropertyClass] = [
 AVAILABLE_GAMES: list[GameClass] = [
     {"id":1, "name":'Loldle',"properties":LODLE_PROPERTIES, "dataPath": "data/loldle.csv"},
     {"id":2, "name":'Pokédle',"properties":POKEDLE_PROPERTIES, "dataPath": "data/pokedle.csv"},
-    {"id":3, "name":'Onepiecedle [WIP]',"properties":ONEPIECEDLE_PROPERTIES, "dataPath": "data/onepiecedle.csv"},
+    {"id":3, "name":'Onepiecedle',"properties":ONEPIECEDLE_PROPERTIES, "dataPath": "data/onepiecedle.csv"},
     {"id":4, "name":'Smashdle',"properties":SMASHDLE_PROPERTIES, "dataPath": "data/smashdle.csv"},
-    {"id":5, "name":'Narutodle [WIP]',"properties":NARUTODLE_PROPERTIES, "dataPath": "data/narutodle.csv"},
+    {"id":5, "name":'Narutodle',"properties":NARUTODLE_PROPERTIES, "dataPath": "data/narutodle.csv"},
     {"id":6, "name":'Dotadle',"properties":DOTADLE_PROPERTIES, "dataPath": "data/dotadle.csv"}]

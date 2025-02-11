@@ -1,0 +1,106 @@
+_championId,Character,Gender,Affiliations,_kekkeiGenkais,Kekkei genkai,_ninjaRank,_age,Debut arc,_debutArcName,Attributes,_species,Nature types,_status,_occupation,_alias,Jutsu types
+0,Minato Namikaze,Male,Konoha,None (None),None,Kage,24,239,Paradise Life on a Boat (Naruto Shippuden),Jinchūriki;Sage,,Fire;Wind;Lightning,Deceased,Hokage,,Ninjutsu
+1,Itachi Uchiha,Male,Konoha;Akatsuki,Sharingan (Dôjutsu); Mangekyō Sharingan (Dôjutsu),Dôjutsu,Anbu,21,139,Land of Rice Fields Investigation Mission (Naruto),Missing-nin,,Fire;Wind;Water,Deceased,Anbu Captain,,Ninjutsu;Genjutsu;Taijutsu
+2,Naruto Uzumaki,Male,Konoha,Lava Release (Nature Transformation); Magnet Release (Nature Transformation); Boil Release (Nature Transformation),Nature Transformation,Genin,17,1,Prologue (Naruto),Jinchūriki;Sage,,Wind;Lightning;Earth;Water;Fire,Alive,Hokage,Hokage,Ninjutsu;Taijutsu
+3,Kakashi Hatake,Male,Konoha,Sharingan (Dôjutsu); Mangekyō Sharingan (Dôjutsu),Dôjutsu,Jōnin,31,3,Prologue (Naruto),None,,Lightning;Earth;Water;Fire;Wind,Alive,Anbu Captain,Hokage,Ninjutsu;Genjutsu;Taijutsu
+4,Sakura Haruno,Female,Konoha,None (None),None,Chūnin,17,3,Prologue (Naruto),Medical-nin,,Earth;Water;Fire,Alive,Director of Konoha Children Mental Health Clinic,,Ninjutsu;Taijutsu
+5,Shisui Uchiha,Male,Konoha,Sharingan (Dôjutsu); Mangekyō Sharingan (Dôjutsu),Dôjutsu,Anbu,,459,Itachi Shinden Book: Light and Darkness (Naruto Shippuden),None,,Fire;Wind;Lightning,Deceased,None,,Ninjutsu;Genjutsu;Taijutsu
+6,Sakumo Hatake,Male,Konoha,None (None),None,Jōnin,,425,In Naruto's Footsteps: The Friends' Paths (Naruto Shippuden),None,,None,Deceased,None,,Ninjutsu
+7,Madara Uchiha,Male,Konoha;Akatsuki,Sharingan (Dôjutsu); Eternal Mangekyō Sharingan (Dôjutsu); Rinnegan (Dôjutsu); Wood Release (Nature Transformation); Storm Release (Nature Transformation),Dôjutsu;Nature Transformation,None,,370,Kakashi's Anbu: The Shinobi That Lives in the Darkness (Naruto Shippuden),Jinchūriki;Missing-nin;Sage,,Fire;Wind;Lightning;Earth;Water,Deceased,Co-founder of Konohagakure,,Ninjutsu;Genjutsu;Taijutsu
+8,Obito Uchiha,Male,Konoha;Akatsuki;Kiri,Sharingan (Dôjutsu); Mangekyō Sharingan (Dôjutsu); Rinnegan (Dôjutsu); Wood Release (Nature Transformation),Dôjutsu;Nature Transformation,Chūnin,31,239,Paradise Life on a Boat (Naruto Shippuden),Jinchūriki;Missing-nin,,Fire;Wind;Lightning;Earth;Water,Deceased,Leader of Akatsuki,,Ninjutsu;Genjutsu;Taijutsu
+9,Hinata Hyuga,Female,Konoha,Byakugan (Dôjutsu),Dôjutsu,Chūnin,16,34,Chūnin Exams (Naruto),None,,Fire;Lightning,Alive,Heiress of the Hyūga Clan,,Taijutsu;Ninjutsu
+10,Jiraiya,Male,Konoha,None (None),None,Jōnin,54,90,Search for Tsunade (Naruto),Sage,,Fire;Wind;Earth;Water,Deceased,Writer,,Ninjutsu
+11,Sasuke Uchiha,Male,Konoha;Oto;Akatsuki,Sharingan (Dôjutsu); Eternal Mangekyō Sharingan (Dôjutsu); Rinnegan (Dôjutsu),Dôjutsu,Genin,17,3,Prologue (Naruto),Missing-nin,,Lightning;Fire;Wind;Earth;Water,Alive,Head of the Uchiha Clan,,Ninjutsu;Genjutsu;Taijutsu
+12,Shikamaru Nara,Male,Konoha,None (None),None,Chūnin,17,34,Chūnin Exams (Naruto),None,,Fire;Earth,Alive,Hokage's Chief Aide,,Ninjutsu
+13,Neji Hyuga,Male,Konoha,Byakugan (Dôjutsu),Dôjutsu,Jōnin,18,36,Chūnin Exams (Naruto),None,,Fire;Earth;Water,Deceased,None,,Ninjutsu;Taijutsu
+14,Tobirama Senju,Male,Konoha,None (None),None,Kage,,118,Sasuke Recovery Mission (Naruto),None,,Water;Fire;Wind;Lightning;Earth,Deceased,Hokage,,Ninjutsu;Genjutsu;Taijutsu
+15,Hashirama Senju,Male,Konoha,Wood Release (Nature Transformation),Nature Transformation,Kage,,118,Sasuke Recovery Mission (Naruto),Sage,,Earth;Water;Fire;Wind;Lightning,Deceased,Head of the Senju clan,Hokage,Ninjutsu;Genjutsu;Taijutsu
+16,Deidara,Male,Iwa;Akatsuki,Explosion Release (Nature Transformation),Nature Transformation,None,19,247,Paradise Life on a Boat (Naruto Shippuden),Missing-nin;Mercenary Ninja,,Earth;Lightning,Deceased,Terrorist Bomber,,Ninjutsu
+17,Gaara,Male,Suna,Magnet Release (Nature Transformation),Nature Transformation,Kage,17,35,Chūnin Exams (Naruto),Jinchūriki,,Wind;Earth;Lightning,Alive,Kazekage,Kazekage,Ninjutsu;Taijutsu
+18,Sasori,Male,Suna;Akatsuki,None (None),None,None,35,247,Paradise Life on a Boat (Naruto Shippuden),Missing-nin,,None,Deceased,None,,Ninjutsu
+19,Might Guy,Male,Konoha,None (None),None,Jōnin,31,38,Chūnin Exams (Naruto),None,,Fire;Lightning,Alive,Academy Teacher,,Ninjutsu;Taijutsu
+20,Hidan,Male,Yu;Akatsuki,None (None),None,None,22,312,Power (Naruto Shippuden),Missing-nin,,None,Alive,None,,Ninjutsu
+21,Rock Lee,Male,Konoha,None (None),None,Chūnin,17,36,Chūnin Exams (Naruto),None,,None,Alive,Chūnin Exams Proctor,,Taijutsu
+22,Kushina Uzumaki,Female,Uzushio;Konoha,None (None),None,None,24,382,Birth of the Ten-Tails' Jinchūriki (Naruto Shippuden),Jinchūriki,,Wind;Water,Deceased,None,,Ninjutsu
+23,Orochimaru,Male,Konoha;Akatsuki;Oto,Jūgo's Clan's Kekkei Genkai (Body Enhancement); Sakon and Ukon's Kekkei Genkai (Body Enhancement); Shikotsumyaku (Body Enhancement); Wood Release (Nature Transformation),Body Enhancement;Nature Transformation,Anbu,54,45,Chūnin Exams (Naruto),Missing-nin,,Wind;Lightning;Earth;Water;Fire,Alive,Founder and Leader of Otogakure,,Ninjutsu;Taijutsu
+24,Kurama,Other,Konoha,None (None),None,None,,1,Prologue (Naruto),Tailed Beast;Sage,Kitsune,Fire;Wind,Alive,None,,Ninjutsu
+25,Zabuza Momochi,Male,Kiri,None (None),None,Anbu,26,10,Prologue (Naruto),Missing-nin;Mercenary Ninja,,Water,Deceased,None,,Ninjutsu;Taijutsu
+26,Nagato,Male,Ame;Akatsuki,Rinnegan (Dôjutsu),Dôjutsu,None,35,372,Kakashi's Anbu: The Shinobi That Lives in the Darkness (Naruto Shippuden),None,,Fire;Wind;Lightning;Earth;Water,Deceased,Akatsuki Leader,,Ninjutsu
+27,Kaguya Otsutsuki,Female,None,Byakugan (Dôjutsu); Rinne Sharingan (Dôjutsu),Dôjutsu,None,,679,,None,Celestial Being,Fire;Wind;Lightning;Earth;Water,Alive,Princess,,Ninjutsu
+28,Iruka Umino,Male,Konoha,None (None),None,Chūnin,27,1,Prologue (Naruto),None,,Fire;Water,Alive,Academy Teacher,,Ninjutsu;Genjutsu
+29,Fugaku Uchiha,Male,Konoha,Sharingan (Dôjutsu); Mangekyō Sharingan (Dôjutsu),Dôjutsu,Jōnin,40,145,Mizuki Tracking Mission (Naruto),None,,Fire,Deceased,Head of the Uchiha Clan,,Ninjutsu;Genjutsu
+30,Tsunade,Female,Konoha,None (None),None,Kage,55,139,Land of Rice Fields Investigation Mission (Naruto),Medical-nin,,Lightning;Earth;Water;Fire,Alive,Hokage,,Ninjutsu;Genjutsu;Taijutsu
+31,Haku,Male,Kiri,Ice Release (Nature Transformation),Nature Transformation,None,15,15,Prologue (Naruto),Mercenary Ninja,,Wind;Water,Deceased,None,,Ninjutsu;Taijutsu
+32,Tenten,Female,Konoha,None (None),None,Chūnin,18,36,Chūnin Exams (Naruto),None,,None,Alive,Weapon Seller,,Ninjutsu;Taijutsu
+33,Mito Uzumaki,Female,Uzushio;Konoha,None (None),None,None,,500,,Jinchūriki,,None,Deceased,None,,Ninjutsu
+34,Yamato,Male,Konoha,Wood Release (Nature Transformation),Nature Transformation,Anbu,27,284,Fourth Shinobi World War: Confrontation (Naruto Shippuden),None,,Earth;Water,Alive,None,,Ninjutsu;Taijutsu
+35,Kisame Hoshigaki,Male,Kiri;Akatsuki,None (None),None,None,33,139,Land of Rice Fields Investigation Mission (Naruto),Missing-nin,,Water;Fire;Wind;Earth,Deceased,None,,Ninjutsu;Taijutsu
+36,Teuchi,Male,Konoha,None (None),None,None,47,1,Prologue (Naruto),None,,None,Alive,Ramen chef,,None
+37,Konan,Female,Ame;Akatsuki,None (None),None,None,35,363,Kakashi's Anbu: The Shinobi That Lives in the Darkness (Naruto Shippuden),None,,Wind;Earth;Water,Deceased,Village Head,,Ninjutsu
+38,Temari,Female,Suna,None (None),None,Jōnin,20,34,Chūnin Exams (Naruto),None,,Wind,Alive,Ambassador,,Ninjutsu;Taijutsu
+39,Sai,Male,Konoha,None (None),None,Anbu,17,281,Fourth Shinobi World War: Confrontation (Naruto Shippuden),None,,Earth;Water;Fire,Alive,Chūnin Exams Proctor,,Ninjutsu;Taijutsu
+40,Killer B,Male,Kumo,None (None),None,None,36,408,In Naruto's Footsteps: The Friends' Paths (Naruto Shippuden),Jinchūriki,,Lightning;Water;Fire,Alive,Guardian of Kumogakure,,Ninjutsu;Taijutsu
+41,Indra Otsutsuki,Male,None,Sharingan (Dôjutsu); Mangekyō Sharingan (Dôjutsu),Dôjutsu,None,,462,Itachi Shinden Book: Light and Darkness (Naruto Shippuden),None,Celestial Being-Human hybrid,Fire;Lightning,Deceased,None,,Ninjutsu;Genjutsu;Taijutsu
+42,Hiruzen Sarutobi,Male,Konoha,None (None),None,Kage,69,1,Prologue (Naruto),None,,Fire;Wind;Lightning;Earth;Water,Deceased,Hokage,,Ninjutsu
+43,Izuna Uchiha,Male,None,Sharingan (Dôjutsu); Mangekyō Sharingan (Dôjutsu),Dôjutsu,None,24,386,Birth of the Ten-Tails' Jinchūriki (Naruto Shippuden),None,,Fire,Deceased,None,,Ninjutsu;Genjutsu
+44,Rin Nohara,Female,Konoha,None (None),None,Chūnin,,239,Paradise Life on a Boat (Naruto Shippuden),Medical-nin;Jinchūriki,,Fire;Water,Deceased,None,,Ninjutsu
+45,Kiba Inuzuka,Male,Konoha,None (None),None,Chūnin,17,34,Chūnin Exams (Naruto),None,,Earth,Alive,Dog Breeder,,Ninjutsu;Taijutsu
+46,Kimimaro,Male,Oto,Shikotsumyaku (Body Enhancement),Body Enhancement,None,15,199,Konoha Plans Recapture Mission (Naruto),None,,None,Deceased,None,,Ninjutsu;Taijutsu
+47,Kakuzu,Male,Taki;Akatsuki,None (None),None,None,91,312,Power (Naruto Shippuden),Missing-nin,,Earth;Water;Fire;Wind;Lightning,Deceased,Akatsuki Treasurer,,Ninjutsu;Taijutsu
+48,Might Duy,Male,Konoha,None (None),None,Genin,35,668,,None,,None,Deceased,None,,Taijutsu
+49,Ino Yamanaka,Female,Konoha,None (None),None,Chūnin,17,34,Chūnin Exams (Naruto),Medical-nin,,Earth;Water;Fire,Alive,Florist,,Ninjutsu
+50,Kankuro,Male,Suna,None (None),None,Jōnin,19,34,Chūnin Exams (Naruto),None,,Wind;Lightning;Earth;Water,Alive,Fifth Kazekage's Bodyguard,,Ninjutsu
+51,Kabuto Yakushi,Male,Konoha;Oto;Akatsuki,Jūgo's Clan's Kekkei Genkai (Body Enhancement); Sakon and Ukon's Kekkei Genkai (Body Enhancement); Shikotsumyaku (Body Enhancement),Body Enhancement,Genin,24,39,Chūnin Exams (Naruto),Medical-nin;Missing-nin;Sage,,Earth;Water;Wind,Alive,Orochimaru's spy and right-hand man,,Ninjutsu;Genjutsu
+52,Mei Terumi,Female,Kiri,Lava Release (Nature Transformation); Boil Release (Nature Transformation),Nature Transformation,Kage,31,454,Itachi Shinden Book: Light and Darkness (Naruto Shippuden),None,,Water;Fire;Lightning;Earth,Alive,Mizukage,,Ninjutsu;Taijutsu
+53,Shino Aburame,Male,Konoha,None (None),None,Chūnin,17,34,Chūnin Exams (Naruto),None,,Earth;Fire,Alive,Academy Teacher,,Ninjutsu;Taijutsu
+54,Suigetsu Hozuki,Male,Kiri;Oto;Akatsuki,None (None),None,None,17,346,Fourth Shinobi World War: Climax (Naruto Shippuden),None,,Water;Wind,Alive,None,,Ninjutsu;Taijutsu
+55,Genma Shiranui,Male,Konoha,None (None),None,Jōnin,33,34,Chūnin Exams (Naruto),None,,None,Alive,Chūnin Exams Proctor,,Ninjutsu
+56,Hagoromo Otsutsuki,Male,None,Sharingan (Dôjutsu); Rinnegan (Dôjutsu),Dôjutsu,None,,572,,Jinchūriki;Sage,Celestial Being-Human hybrid,Fire;Wind;Lightning;Earth;Water,Deceased,Priest,,Ninjutsu
+57,Asuma Sarutobi,Male,Konoha,None (None),None,Jōnin,31,34,Chūnin Exams (Naruto),None,,Wind;Fire,Deceased,None,,Ninjutsu;Taijutsu
+58,Tayuya,Female,Oto,None (None),None,None,14,115,Sasuke Recovery Mission (Naruto),None,,None,Deceased,None,,Ninjutsu;Genjutsu;Taijutsu
+59,Konohamaru Sarutobi,Male,Konoha,None (None),None,Genin,12,2,Prologue (Naruto),None,,Fire;Wind;Lightning,Alive,Aspiring Hokage,,Ninjutsu;Taijutsu
+60,Akamaru,Male,Konoha,None (None),None,None,8,39,Chūnin Exams (Naruto),None,Ninken,None,Alive,None,,None
+61,Karin,Female,Kusa;Oto;Akatsuki,None (None),None,Genin,17,347,Fourth Shinobi World War: Climax (Naruto Shippuden),None,,Earth;Water,Alive,None,,Ninjutsu
+62,Danzo Shimura,Male,Konoha,Sharingan (Dôjutsu); Mangekyō Sharingan (Dôjutsu); Wood Release (Nature Transformation),Dôjutsu;Nature Transformation,None,73,281,Fourth Shinobi World War: Confrontation (Naruto Shippuden),None,,Wind;Earth;Water;Fire,Deceased,Leader of Root,,Ninjutsu;Genjutsu;Taijutsu
+63,Hayate Gekko,Male,Konoha,None (None),None,Jōnin,23,65,Chūnin Exams (Naruto),None,,None,Deceased,Chūnin Exams Proctor,,Ninjutsu;Genjutsu;Taijutsu
+64,Asura Otsutsuki,Male,None,Wood Release (Nature Transformation),Nature Transformation,None,,462,Itachi Shinden Book: Light and Darkness (Naruto Shippuden),Sage,Celestial Being-Human hybrid,Wind;Lightning;Earth;Water;Fire,Deceased,None,,Ninjutsu;Taijutsu
+65,Utakata,Male,Kiri,None (None),None,None,26,515,,Jinchūriki;Missing-nin,,Water,Deceased,None,,Ninjutsu
+66,Yagura Karatachi,Male,Kiri,None (None),None,Kage,,458,Itachi Shinden Book: Light and Darkness (Naruto Shippuden),Jinchūriki,,Water;Wind,Deceased,Mizukage,,Ninjutsu
+67,Samui,Female,Kumo,None (None),None,Jōnin,29,417,In Naruto's Footsteps: The Friends' Paths (Naruto Shippuden),None,,None,Alive,None,,None
+68,Black Zetsu,Other,Akatsuki,Wood Release (Nature Transformation); Rinnegan (Dôjutsu); Sharingan (Dôjutsu); Mangekyō Sharingan (Dôjutsu),Nature Transformation;Dôjutsu,None,,234,Paradise Life on a Boat (Naruto Shippuden),Jinchūriki,Artificial Human,Earth;Water;Fire;Wind;Lightning,Alive,Akatsuki spy,,Ninjutsu
+69,Darui,Male,Kumo,Storm Release (Nature Transformation),Nature Transformation,Jōnin,26,454,Itachi Shinden Book: Light and Darkness (Naruto Shippuden),None,,Lightning;Water;Wind,Alive,First Division Commander of the Allied Shinobi Forces,Raikage,Ninjutsu;Taijutsu
+70,Yahiko,Male,Ame;Akatsuki,None (None),None,None,15,372,Kakashi's Anbu: The Shinobi That Lives in the Darkness (Naruto Shippuden),None,,Water;Fire;Wind,Deceased,Founder and leader of Akatsuki,,Ninjutsu
+71,Shikaku Nara,Male,Konoha,None (None),None,Jōnin,42,137,Land of Rice Fields Investigation Mission (Naruto),None,,None,Deceased,Head of the Nara Clan,,Ninjutsu
+72,Gamabunta,Male,Konoha,None (None),None,None,,94,Search for Tsunade (Naruto),Summon,Toad,Water,Alive,None,,Ninjutsu
+73,Ten-Tails,Other,None,Wood Release (Nature Transformation),Nature Transformation,None,,467,Itachi Shinden Book: Light and Darkness (Naruto Shippuden),Tailed Beast,,Fire;Wind;Lightning;Earth;Water,Alive,None,,Ninjutsu
+74,Chiyo,Female,Suna,None (None),None,None,73,252,Paradise Life on a Boat (Naruto Shippuden),Medical-nin,,None,Deceased,Counsellor,,Ninjutsu;Taijutsu
+75,Mikoto Uchiha,Female,Konoha,None (None),None,Jōnin,35,145,Mizuki Tracking Mission (Naruto),None,,None,Deceased,Housewife,,Ninjutsu
+76,Shizune,Female,Konoha,None (None),None,Jōnin,31,148,Bikochu Search Mission (Naruto),Medical-nin,,None,Alive,Hokage's Assistant,,Ninjutsu
+77,Choji Akimichi,Male,Konoha,None (None),None,Chūnin,17,34,Chūnin Exams (Naruto),None,,Earth;Fire,Alive,None,,Ninjutsu;Taijutsu
+78,Hanzo,Male,Ame,None (None),None,None,,369,Kakashi's Anbu: The Shinobi That Lives in the Darkness (Naruto Shippuden),None,,Fire,Deceased,Village Head,,Ninjutsu
+79,Pakkun,Male,Konoha,None (None),None,None,,29,Chūnin Exams (Naruto),Summon,Ninken,None,Alive,None,,None
+80,Omoi,Male,Kumo,None (None),None,Chūnin,16,417,In Naruto's Footsteps: The Friends' Paths (Naruto Shippuden),None,,Lightning,Alive,Fifth Raikage's Bodyguard,,Ninjutsu
+81,Gamatatsu,Male,Konoha,None (None),None,None,,166,Cursed Warrior Extermination Mission (Naruto),Summon,Toad,Water,Alive,None,,None
+82,Chojuro,Male,Kiri,None (None),None,Jōnin,19,454,Itachi Shinden Book: Light and Darkness (Naruto Shippuden),None,,Water,Alive,Mizukage,,Ninjutsu
+83,Gengetsu Hozuki,Male,Kiri,None (None),None,Kage,,525,,None,,Water;Fire;Lightning;Earth,Deceased,Mizukage,,Ninjutsu;Genjutsu;Taijutsu
+84,Yugito Nii,Female,Kumo,None (None),None,Jōnin,29,312,Power (Naruto Shippuden),Jinchūriki,,Fire,Deceased,None,,Ninjutsu;Taijutsu
+85,Mu,Male,Iwa,Dust Release (Nature Transformation),Nature Transformation,Kage,,515,,None,,Earth;Water;Fire;Wind;Lightning,Deceased,Tsuchikage,,Ninjutsu
+86,Karui,Female,Kumo,None (None),None,Chūnin,17,417,In Naruto's Footsteps: The Friends' Paths (Naruto Shippuden),None,,Lightning,Alive,None,,None
+87,Baki,Male,Suna,None (None),None,Jōnin,34,65,Chūnin Exams (Naruto),None,,Wind,Alive,Senior,,Ninjutsu;Taijutsu
+88,Homura Mitokado,Male,Konoha,None (None),None,None,73,93,Search for Tsunade (Naruto),None,,None,Alive,Councillor,,None
+89,Ebisu,Male,Konoha,None (None),None,Jōnin,33,2,Prologue (Naruto),None,,Fire,Alive,Personal Trainer,,Ninjutsu;Taijutsu
+90,Shima,Female,Konoha,None (None),None,None,,375,Kakashi's Anbu: The Shinobi That Lives in the Darkness (Naruto Shippuden),Sage;Summon,Toad,Fire;Wind,Alive,Toad Elder,,Ninjutsu;Genjutsu
+91,Hiashi Hyuga,Male,Konoha,Byakugan (Dôjutsu),Dôjutsu,Jōnin,46,78,Konoha Crush (Naruto),None,,None,Alive,Head of the Hyūga Clan,,Taijutsu
+92,Katsuyu,Other,Konoha,None (None),None,None,,169,Kaima Capture Mission (Naruto),Summon,Slug,None,Alive,None,,None
+93,Gamakichi,Male,Konoha,None (None),None,None,,131,Sasuke Recovery Mission (Naruto),Sage;Summon,Toad,Water;Fire,Alive,None,,Ninjutsu
+94,Gyuki,Other,Kumo,None (None),None,None,,413,In Naruto's Footsteps: The Friends' Paths (Naruto Shippuden),Tailed Beast,Ushi-oni,None,Alive,None,,Ninjutsu
+95,Choza Akimichi,Male,Konoha,None (None),None,Jōnin,42,137,Land of Rice Fields Investigation Mission (Naruto),None,,None,Alive,Head of the Akimichi Clan,,Ninjutsu;Taijutsu
+96,Fukasaku,Male,Konoha,None (None),None,None,,375,Kakashi's Anbu: The Shinobi That Lives in the Darkness (Naruto Shippuden),Sage;Summon,Toad,Wind;Water,Alive,Toad Elder,,Ninjutsu;Genjutsu
+97,Ao,Male,Kiri,Byakugan (Dôjutsu),Dôjutsu,Jōnin,46,454,Itachi Shinden Book: Light and Darkness (Naruto Shippuden),None,,Water,Deceased,Fifth Mizukage's Bodyguard,,Ninjutsu;Genjutsu;Taijutsu
+98,Koharu Utatane,Female,Konoha,None (None),None,None,73,93,Search for Tsunade (Naruto),None,,None,Alive,Councillor,,None
+99,Mifune,Male,Land of Iron,None (None),None,None,65,456,Itachi Shinden Book: Light and Darkness (Naruto Shippuden),None,,None,Alive,General,,None
+100,Kurenai Yuhi,Female,Konoha,None (None),None,Jōnin,32,34,Chūnin Exams (Naruto),None,,None,Alive,None,,Genjutsu
+101,Inoichi Yamanaka,Male,Konoha,None (None),None,Jōnin,42,137,Land of Rice Fields Investigation Mission (Naruto),None,,Water,Deceased,Head of the Yamanaka Clan,,Ninjutsu
+102,Jugo,Male,Oto;Akatsuki,Jūgo's Clan's Kekkei Genkai (Body Enhancement),Body Enhancement,None,19,348,Fourth Shinobi World War: Climax (Naruto Shippuden),Sage,,Wind;Earth;Water,Alive,None,,None
+103,A (Fourth Raikage),Male,Kumo,None (None),None,Kage,47,416,In Naruto's Footsteps: The Friends' Paths (Naruto Shippuden),None,,Lightning;Earth;Water,Alive,Raikage,Raikage,Ninjutsu;Taijutsu
+104,Onoki,Male,Iwa,Lava Release (Nature Transformation),Nature Transformation,Kage,79,454,Itachi Shinden Book: Light and Darkness (Naruto Shippuden),None,,Earth;Fire;Wind;Lightning,Alive,Tsuchikage,,Ninjutsu

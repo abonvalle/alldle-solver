@@ -1,0 +1,130 @@
+_championId,Character,_alias,_epithet,Gender,First arc,_debutEpisode,Affiliation,Origin,_status,Height,_bloodType,Last bounty,Devil fruit,_devilFruitJapaneseName,_devilFruitType,Haki
+0,Roronoa Zoro,Zoro-juurou,Pirate Hunter Zoro,Male,3,1,Straw Hat Pirates,East Blue,Alive,181,XF,1111000000,None,None,None,Conqueror;Observation;Armament
+1,Nami,Namizo;O-Nami,Cat Burglar,Female,8,1,Straw Hat Pirates,East Blue,Alive,170,X,366000000,None,None,None,None
+2,Nico Robin,Miss All Sunday;O-Robi,Devil Child;Light of the Revolution,Female,114,67,Straw Hat Pirates,West Blue,Alive,188,S,930000000,Flower-Flower Fruit,Hana Hana no Mi,Paramecia,None
+3,Boa Hancock,,Snake Princess;Pirate Empress,Female,516,409,Kuja,Calm Belt,Alive,191,S,1659000000,Love-Love Fruit,Mero Mero no Mi,Paramecia,Conqueror;Observation;Armament
+4,Carrot,,,Female,804,753,Mokomo Dukedom,Grand Line,Alive,161,F,0,None,None,None,None
+5,Sabo,Lucy,Flame Emperor,Male,583,494,Revolutionary Army,East Blue,Alive,187,X,602000000,Flame-Flame Fruit,Mera Mera no Mi,Logia,Observation;Armament
+6,Shanks,,Red-Haired Shanks,Male,1,4,Red Hair Pirates,West Blue,Alive,199,XF,4048900000,None,None,None,Conqueror;Observation;Armament
+7,Charlotte Katakuri,,,Male,860,825,Big Mom Pirates,Grand Line,Alive,509,XF,1057000000,Mochi-Mochi Fruit,Mochi Mochi no Mi,Paramecia,Conqueror;Observation;Armament
+8,Usopp,Sogeking;Hana Arashi;Usoland;Uso-hachi,King of Snipers;God;Hana Arashi,Male,23,8,Straw Hat Pirates,East Blue,Alive,176,S,500000000,None,None,None,Observation
+9,Tony Tony Chopper,Chopa-emon,Cotton Candy Lover,Male,134,81,Straw Hat Pirates,Grand Line,Alive,90,X,1000,Human-Human Fruit,Hito Hito no Mi,Zoan,None
+10,Jinbe,,Knight of the Sea Jinbe;Boss Jinbe,Male,528,430,Straw Hat Pirates,Grand Line,Alive,301,F,1100000000,None,None,None,Observation;Armament
+11,Marco,,Marco the Phoenix,Male,234,151,Whitebeard Pirates,Grand Line,Alive,203,X,1374000000,"Bird-Bird Fruit, Model: Phoenix","Tori Tori no Mi, Model: Phoenix",Zoan,Observation;Armament
+12,Donquixote Doflamingo,Joker,Heavenly Yaksha,Male,233,151,Donquixote Pirates,Red Line,Alive,305,X,340000000,String-String Fruit,Ito Ito no Mi,Paramecia,Conqueror;Observation;Armament
+13,Eustass Kid,,Captain,Male,498,392,Kid Pirates,South Blue,Unknown,205,F,3000000000,Magnet-Magnet Fruit,Jiki Jiki no Mi,Paramecia,Conqueror;Observation;Armament
+14,Kozuki Oden,,Idiot Lord,Male,920,910,Kozuki Family,Grand Line,Deceased,382,F,0,None,None,None,Conqueror;Observation;Armament
+15,Perona,,Ghost Princess,Female,443,338,Dracule Mihawk,West Blue,Alive,160,XF,0,Hollow-Hollow Fruit,Horo Horo no Mi,Paramecia,None
+16,Brook,Hone-kichi;The Starving Skeleton,Humming Brook;Soul King,Male,442,337,Straw Hat Pirates,West Blue,Alive,277,X,383000000,Revive-Revive Fruit,Yomi Yomi no Mi,Paramecia,None
+17,Smoker,,Smoker the White Hunter;White Chase Smoker;Smoke Hunter,Male,97,48,Marines,Grand Line,Alive,209,XF,0,Plume-Plume Fruit,Moku Moku no Mi,Logia,Observation;Armament
+18,Franky,Fra-nosuke,Iron Man Franky;Cyborg Franky,Male,329,233,Straw Hat Pirates,South Blue,Alive,240,XF,394000000,None,None,None,None
+19,Buggy,,Buggy the Clown;Buggy the Star Clown,Male,9,4,Cross Guild,Grand Line,Alive,192,F,3189000000,Chop-Chop Fruit,Bara Bara no Mi,Paramecia,None
+20,Enel,,God Enel,Male,254,167,Automata,Sky Islands,Alive,266,S,0,Rumble-Rumble Fruit,Goro Goro no Mi,Logia,Observation
+21,Tashigi,,,Female,96,48,Marines,East Blue,Alive,170,S,0,None,None,None,Observation;Armament
+22,Vinsmoke Reiju,,Poison Pink,Female,826,784,Vinsmoke Family,North Blue,Alive,173,F,0,None,None,None,None
+23,Bartolomeo,,Bartolomeo the Cannibal,Male,705,633,Barto Club,East Blue,Alive,220,X,200000000,Barrier-Barrier Fruit,Bari Bari no Mi,Paramecia,None
+24,Rob Lucci,,Massacre Weapon,Male,323,230,CP0,Grand Line,Alive,212,XF,0,"Cat-Cat Fruit, Model: Leopard","Neko Neko no Mi, Model: Leopard",Zoan,Observation;Armament
+25,Charlotte Pudding,,,Female,651,571,Big Mom Pirates,Grand Line,Alive,166,XF,0,Memo-Memo Fruit,Memo Memo no Mi,Paramecia,None
+26,Shirahoshi,Poseidon,Mermaid Princess,Female,612,531,Neptune Family,Grand Line,Alive,1187,X,0,None,None,None,Observation
+27,Pedro,,Pedro of the Treetops,Male,805,754,Mokomo Dukedom,Grand Line,Deceased,233,F,382000000,None,None,None,Observation;Armament
+28,Kaido,,Kaidou of the Beasts;The Strongest Creature;Wise King,Male,795,736,Beasts Pirates,Grand Line,Unknown,710,F,4611100000,"Fish-Fish Fruit, Model: Azure Dragon","Uo Uo no Mi, Model: Seiryu",Zoan,Conqueror;Observation;Armament
+29,Rebecca,,The Undefeated Woman;The Phantom Princess,Female,704,633,Dressrosa,Grand Line,Alive,171,S,0,None,None,None,Observation
+30,Paulie,,,Male,323,230,Galley-La Company,Grand Line,Alive,195,S,0,None,None,None,None
+31,Gecko Moria,,,Male,449,343,Thriller Bark Pirates,West Blue,Alive,692,X,320000000,Shadow-Shadow Fruit,Kage Kage no Mi,Paramecia,None
+32,Monet,,,Female,657,581,Donquixote Pirates,North Blue,Deceased,227,X,0,Snow-Snow Fruit,Yuki Yuki no Mi,Logia,None
+33,Kaku,,Mountain Wind,Male,323,230,CP0,East Blue,Alive,193,X,0,Ox-Ox Fruit Giraffe Model,"Ushi Ushi no Mi, Model: Giraffe",Zoan,Observation;Armament
+34,Gin,,Gin the Man-Demon,Male,44,21,Krieg Pirates,East Blue,Alive,186,S,12000000,None,None,None,None
+35,Kin'emon,,Foxfire Kin'emon,Male,656,580,Kozuki Family,Grand Line,Alive,295,X,0,Garb-Garb Fruit,Fuku Fuku no Mi,Paramecia,Observation;Armament
+36,Zeff,,Red-Leg Zeff,Male,43,20,Baratie,East Blue,Alive,189,XF,0,None,None,None,None
+37,Kawamatsu,Gyukimaru,Kawamatsu the Kappa;Yokozuna Kawamatsu,Male,920,910,Kozuki Family,Grand Line,Alive,271,F,0,None,None,None,Observation;Armament
+38,Monkey D. Luffy,Lucy;Luffy-tarou;Luffy-no-Umi;Joy Boy,Straw Hat Luffy,Male,1,1,Straw Hat Pirates,East Blue,Alive,174,F,3000000000,Gum-Gum Fruit,Gomu Gomu no Mi,Zoan,Conqueror;Observation;Armament
+39,Vinsmoke Sanji,Mr. Prince;San-gorou;Osoba-mask,Black Leg,Male,43,20,Straw Hat Pirates,North Blue,Alive,180,S (RH-),1032000000,None,None,None,Observation;Armament
+40,Trafalgar D. Water Law,,Surgeon of Death,Male,498,392,Heart Pirates,North Blue,Alive,191,F,3000000000,Op-Op Fruit,Ope Ope no Mi,Paramecia,Observation;Armament
+41,Portgas D. Ace,,Fire Fist Ace,Male,154,91,Whitebeard Pirates,South Blue,Deceased,185,S,550000000,Flame-Flame Fruit,Mera Mera no Mi,Logia,Conqueror;Observation;Armament
+42,Yamato,Kozuki Oden,Oni Princess,Female,971,972,Ninja-Pirate-Mink-Samurai Alliance,Unknown,Alive,263,F,0,"Dog-Dog Fruit, Model: Okuchi-no-Makami","Inu Inu no Mi, Model: Okuchi no Makami",Zoan,Conqueror;Observation;Armament
+43,Donquixote Rosinante,Corazon,,Male,761,686,Marines,Red Line,Deceased,293,S,0,Calm-Calm Fruit,Nagi Nagi no Mi,Paramecia,None
+44,Crocodile,Mr. 0,Sir Crocodile;Desert King,Male,126,76,Cross Guild,Grand Line,Alive,253,S,1965000000,Sand-Sand Fruit,Suna Suna no Mi,Logia,Observation;Armament
+45,Nefertari Vivi,Miss Wednesday;Ms. Wednesday,,Female,103,62,Arabasta Kingdom,Grand Line,Alive,169,F,0,None,None,None,None
+46,Bentham,Mr. 2 Bon Kurei,Bentham of the Wild,Male,129,78,Newkama Land,East Blue,Alive,238,F,32000000,Clone-Clone Fruit,Mane Mane no Mi,Paramecia,None
+47,Gol D. Roger,Gold Roger,Pirate King,Male,1,1,Roger Pirates,East Blue,Deceased,274,S,5564800000,None,None,None,Conqueror;Observation;Armament
+48,Dracule Mihawk,,Hawk Eyes Mihawk;Strongest Swordsman in the World;Marine Hunter,Male,49,23,Cross Guild,Unknown,Alive,198,S,3590000000,None,None,None,Observation;Armament
+49,Edward Newgate,,Whitebeard;The Strongest Man in the World;The Man Closest to One Piece,Male,159,95,Whitebeard Pirates,Grand Line,Deceased,666,F,5046000000,Tremor-Tremor Fruit,Gura Gura no Mi,Paramecia,Conqueror;Observation;Armament
+50,Silvers Rayleigh,,Right Hand of the Pirate King;Dark King,Male,19,8,Roger Pirates,Unknown,Alive,188,XF,0,None,None,None,Conqueror;Observation;Armament
+51,Kuzan,Aokiji,,Male,303,225,Blackbeard Pirates,South Blue,Alive,298,F,0,Ice-Ice Fruit,Hie Hie no Mi,Logia,Observation;Armament
+52,X. Drake,Dory,Red Flag,Male,498,392,Marines,North Blue,Alive,233,X,222000000,"Dragon-Dragon Fruit, Model: Allosaurus","Ryu Ryu no Mi, Model: Allosaurus",Zoan,Observation;Armament
+53,Koby,,Hero,Male,2,1,Marines,East Blue,Alive,167,F,500000000,None,None,None,Observation;Armament
+54,Monkey D. Garp,,Garp the Fist;Hero of the Marines;Demon/Devil,Male,92,68,Marines,East Blue,Unknown,287,F,3000000000,None,None,None,Conqueror;Observation;Armament
+55,Marshall D. Teach,,Blackbeard,Male,223,146,Blackbeard Pirates,Grand Line,Alive,344,F,3996000000,Dark-Dark Fruit,Yami Yami no Mi,Logia,Observation;Armament
+56,Kikunojo,O-Kiku,Kikunojo of the Lingering Snow,Female,913,899,Kozuki Family,Grand Line,Alive,287,XF,0,None,None,None,Observation;Armament
+57,Kozuki Hiyori,Komurasaki,,Female,909,892,Kozuki Family,Grand Line,Alive,170,XF,0,None,None,None,None
+58,Pell,,Pell the Falcon,Male,155,91,Arabasta Kingdom,Grand Line,Alive,189,X,0,"Bird-Bird Fruit, Model: Falcon","Tori Tori no Mi, Model: Falcon",Zoan,None
+59,Issho,Fujitora,,Male,701,630,Marines,Grand Line,Alive,270,S,3000000000,Press-Press Fruit,Zushi Zushi no Mi,Paramecia,Observation;Armament
+60,Sakazuki,Akainu,,Male,397,278,Marines,North Blue,Alive,306,F,0,Magma-Magma Fruit,Magu Magu no Mi,Logia,Observation;Armament
+61,Kurozumi Tama,,,Female,911,893,Kurozumi Family,Grand Line,Alive,108,F,0,Millet-Millet Fruit,Kibi Kibi no Mi,Paramecia,None
+62,Killer,Kamazo the Manslayer,Massacre Soldier,Male,498,392,Kid Pirates,South Blue,Unknown,195,X,200000000,SMILE,SMILE,Zoan,Observation;Armament
+63,Ulti,,,Female,977,982,Beasts Pirates,Grand Line,Alive,173,XF,400000000,"Dragon-Dragon Fruit, Pachycephalosaurus Model","Ryu Ryu no Mi, Model: Pachycephalosaurus",Zoan,Observation;Armament
+64,Benn. Beckman,,,Male,1,4,Red Hair Pirates,North Blue,Alive,206,X,0,None,None,None,Armament
+65,Koala,,,Female,622,541,Revolutionary Army,Unknown,Alive,160,F,0,None,None,None,None
+66,Borsalino,Kizaru,,Male,504,398,Marines,North Blue,Alive,302,XF,3000000000,Glint-Glint Fruit,Pika Pika no Mi,Logia,Observation;Armament
+67,Monkey D. Dragon,,Rebellious Dragon;World's Worst Criminal,Male,100,52,Revolutionary Army,East Blue,Alive,256,F,0,None,None,None,None
+68,Bepo,,,Male,498,392,Heart Pirates,Grand Line,Alive,240,S,500,None,None,None,None
+69,Hiriluk,,,Male,141,85,None,Grand Line,Deceased,213,F,0,None,None,None,None
+70,Urouge,,Mad Monk,Male,498,392,Fallen Monk Pirates,Sky Islands,Alive,388,S,108000000,None,Unknown,Paramecia,None
+71,Senor Pink,,,Male,702,632,Donquixote Pirates,North Blue,Alive,244,X,58000000,Swim-Swim Fruit,Sui Sui no Mi,Paramecia,None
+72,Cavendish,Hakuba,Cavendish of the White Horse;Pirate Prince,Male,704,632,Beautiful Pirates,Grand Line,Alive,208,XF,330000000,None,None,None,Observation;Armament
+73,Emporio Ivankov,,Okama King;Miracle Person,Male,537,438,Revolutionary Army,Grand Line,Alive,449,XF,100000000,Horm-Horm Fruit,Horu Horu no Mi,Paramecia,None
+74,Morgans,,Big News,Male,860,828,World Economy News Paper,Grand Line,Alive,305,XF,0,Bird-Bird Fruit Model Albatross,"Tori Tori no Mi, Model: Albatross",Zoan,None
+75,Bellemere,,,Female,77,32,Marines,East Blue,Deceased,186,S,0,None,None,None,None
+76,Basil Hawkins,,Magician,Male,498,392,Hawkins Pirates,North Blue,Unknown,210,S,320000000,Straw-Straw Fruit,Wara Wara no Mi,Paramecia,Observation;Armament
+77,Denjiro,Kyoshiro;Ushimitsu Kozo,Dozing Kyoshiro,Male,919,909,Kozuki Family,Grand Line,Alive,306,XF,0,None,None,None,Observation;Armament
+78,Jewelry. Bonney,Conney,Big Eater,Female,498,392,Bonney Pirates,Red Line,Alive,174,F,320000000,Age-Age Fruit,Toshi Toshi no Mi,Paramecia,Armament
+79,Charlotte Linlin,O-Lin,Big Mom;Evil Spirit,Female,651,571,Big Mom Pirates,Grand Line,Unknown,880,X,4388000000,Soul-Soul Fruit,Soru Soru no Mi,Paramecia,Conqueror;Observation;Armament
+80,Wyper,,Berserker,Male,237,153,Shandia,Sky Islands,Alive,183,X,0,None,None,None,None
+81,Charlotte Mont d'Or,,Scribe,Male,829,789,Big Mom Pirates,Grand Line,Alive,260,X,120000000,Book-Book Fruit,Buku Buku no Mi,Paramecia,None
+82,Caesar Clown,Cedar;'Gangster' Gastino,Master,Male,658,581,Germa Kingdom,Grand Line,Alive,309,X,300000000,Gas-Gas Fruit,Gasu Gasu no Mi,Logia,None
+83,Charlotte Perospero,,,Male,834,795,Big Mom Pirates,Grand Line,Alive,333,X,700000000,Lick-Lick Fruit,Pero Pero no Mi,Paramecia,Observation;Armament
+84,Bartholomew Kuma,PX-0,Tyrant,Male,233,151,Revolutionary Army,South Blue,Alive,689,X,296000000,Paw-Paw Fruit,Nikyu Nikyu no Mi,Paramecia,Armament
+85,Kyros,Thunder Soldier of Rage,,Male,702,631,Riku Family,Grand Line,Alive,298,S,0,None,None,None,None
+86,Arlong,,Arlong the Saw,Male,69,31,Arlong Pirates,Grand Line,Alive,263,F,20000000,None,None,None,None
+87,Iceburg,,,Male,323,230,Galley-La Company,Grand Line,Alive,199,X,0,None,None,None,None
+88,Kalifa,,,Female,323,230,CP0,Grand Line,Alive,185,XF,0,Bubble-Bubble Fruit,Awa Awa no Mi,Paramecia,Observation;Armament
+89,Kozuki Momonosuke,,,Male,684,609,Kozuki Family,Grand Line,Alive,322,X,0,"Fish-Fish Fruit, Model: Azure Dragon","Uo Uo no Mi, Model: Seiryu",Zoan,Observation
+90,Oars,,Devil;Oars the Continent-Puller,Male,456,350,Thriller Bark Pirates,North Blue,Deceased,6700,F,0,None,None,None,None
+91,Galdino,Mr. 3,Loan Shark,Male,117,70,Cross Guild,South Blue,Alive,179,F,24000000,Wax-Wax Fruit,Doru Doru no Mi,Paramecia,None
+92,Hody Jones,,,Male,608,527,New Fish-Man Pirates,Grand Line,Alive,331,F,0,None,None,None,None
+93,Capone Bege,,Gang,Male,498,392,Fire Tank Pirates,West Blue,Alive,166,S,350000000,Castle-Castle Fruit,Shiro Shiro no Mi,Paramecia,None
+94,Blueno,,,Male,325,230,CP0,North Blue,Alive,258,X,0,Door-Door Fruit,Doa Doa no Mi,Paramecia,Observation;Armament
+95,Camie,,,Female,490,385,Takoyaki 8,Grand Line,Alive,197,X,0,None,None,None,None
+96,Spandam,,,Male,355,249,CP0,Grand Line,Alive,192,XF,0,None,None,None,None
+97,Don Krieg,,Don Krieg;Pirate Fleet Admiral;Ruler of the East Blue;Foul Play Krieg,Male,45,21,Krieg Pirates,East Blue,Alive,243,XF,17000000,None,None,None,None
+98,Viola,Violet,,Female,703,632,Riku Family,Grand Line,Alive,178,X,0,Glare-Glare Fruit,Giro Giro no Mi,Paramecia,None
+99,Kuro,Klahadore,Kuro of a Hundred Plans,Male,23,9,Black Cat Pirates,East Blue,Alive,207,X,16000000,None,None,None,None
+100,Kurozumi Kanjuro,,Evening Shower;Ghost of Kibi,Male,700,629,Kurozumi Family,Unknown,Deceased,347,X,0,Brush-Brush Fruit,Fude Fude no Mi,Paramecia,Observation;Armament
+101,Bellamy,,Bellamy the Hyena;Deadly Bullet of Dressrosa;The Big-Time Rookie,Male,222,146,Donquixote Pirates,North Blue,Alive,240,F,195000000,Spring-Spring Fruit,Bane Bane no Mi,Paramecia,Observation;Armament
+102,Inuarashi,,Duke Inuarashi;Ruler of Day,Male,808,756,Mokomo Dukedom,Grand Line,Alive,511,X,0,None,None,None,Observation;Armament
+103,Sengoku,,Sengoku the Buddha;The Resourceful General,Male,234,151,Marines,South Blue,Alive,278,F,0,"Human-Human Fruit, Model: Buddha","Hito Hito no Mi, Model: Daibutsu",Zoan,Conqueror;Observation;Armament
+104,Foxy,,Silver Fox,Male,305,207,Foxy Pirates,South Blue,Alive,180,S,24000000,Slow-Slow Fruit,Noro Noro no Mi,Paramecia,None
+105,Jabra,,,Male,375,264,CP0,North Blue,Alive,212,S,0,Mutt-Mutt Fruit Wolf Model,"Inu Inu no Mi, Model: Wolf",Zoan,Observation;Armament
+106,Nekomamushi,,Master Nekomamushi;Ruler of Night,Male,809,756,Mokomo Dukedom,Grand Line,Alive,522,S,0,None,None,None,Observation;Armament
+107,Charlotte Brulee,,,Female,831,791,Big Mom Pirates,Grand Line,Alive,350,S,0,Mirror-Mirror Fruit,Mira Mira no Mi,Paramecia,None
+108,Daz Bones,Mr. 1,The Killer,Male,160,103,Cross Guild,West Blue,Alive,212,F,75000000,Dice-Dice Fruit,Supa Supa no Mi,Paramecia,None
+109,Kureha,Doctorine,Witch;Master of Doctors,Female,134,80,Sakura Kingdom,Grand Line,Alive,188,S,0,None,None,None,None
+110,Nojiko,,,Female,70,31,None,East Blue,Alive,170,S,0,None,None,None,None
+111,Raizo,,Raizo of the Mist,Male,817,768,Kozuki Family,Grand Line,Alive,311,X,0,Scroll-Scroll Fruit,Maki Maki no Mi,Paramecia,Observation;Armament
+112,Mont Blanc Noland,,Liar Noland,Male,286,187,Lvneel,North Blue,Deceased,220,S,0,None,None,None,None
+113,Kaya,,,Female,23,9,None,East Blue,Alive,169,F,0,None,None,None,None
+114,Magellan,,,Male,528,425,Impel Down,Grand Line,Alive,491,X,0,Venom-Venom Fruit,Doku Doku no Mi,Paramecia,None
+115,Pekoms,Nazoms,,Male,651,570,Big Mom Pirates,Grand Line,Unknown,232,S,330000000,Turtle-Turtle Fruit,Kame Kame no Mi,Zoan,Observation;Armament
+116,Vinsmoke Judge,,Garuda,Male,832,793,Vinsmoke Family,North Blue,Alive,272,S,0,None,None,None,Armament
+117,Diamante,,,Male,700,629,Donquixote Pirates,North Blue,Alive,525,S,99000000,Ripple-Ripple Fruit,Hira Hira no Mi,Paramecia,Observation;Armament
+118,Pica,,,Male,700,629,Donquixote Pirates,North Blue,Alive,470,X,99000000,Stone-Stone Fruit,Ishi Ishi no Mi,Paramecia,Observation;Armament
+119,Mont Blanc Cricket,,,Male,227,148,Saruyama Alliance,North Blue,Alive,242,S,25000000,None,None,None,None
+120,Caribou,,Wet-Haired Caribou,Male,600,519,Caribou Pirates,North Blue,Alive,228,XF,210000000,Swamp-Swamp Fruit,Numa Numa no Mi,Logia,None
+121,Charlotte Chiffon,,,Female,825,783,Fire Tank Pirates,Grand Line,Alive,215,F,0,None,None,None,None
+122,Wanda,,,Female,804,753,Mokomo Dukedom,Grand Line,Alive,181,F,0,None,None,None,None
+123,Hogback,,Doctor Hogback;Genius Surgeon,Male,446,340,Thriller Bark Pirates,West Blue,Alive,223,XF,0,None,None,None,None
+124,Brogy,,Brogy the Red Ogre,Male,115,71,Giant Warrior Pirates,Grand Line,Alive,2130,F,1800000000,None,None,None,None
+125,Jesus Burgess,Mr. Store,Champion,Male,222,146,Blackbeard Pirates,Grand Line,Alive,355,F,20000000,Strong-Strong Fruit,Riki Riki no Mi,Paramecia,Observation;Armament
+126,Ashura Doji,Shutenmaru,Strongest Monster of Kuri,Male,920,910,Mt. Atama Thieves,Grand Line,Deceased,544,X,0,None,None,None,Observation;Armament
+127,Dorry,,Dorry the Blue Ogre,Male,116,71,Giant Warrior Pirates,Grand Line,Alive,2260,F,1800000000,None,None,None,None
+128,Shimotsuki Ryuma,,Legendary Samurai;Sword God;Ryuma de King,Male,448,342,Thriller Bark Pirates,Grand Line,Deceased,179,XF,0,None,None,None,Armament

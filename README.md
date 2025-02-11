@@ -61,7 +61,8 @@ python3 app.py -g Loldle -s Singed
 
 ## Example Run
 
-```
+```sh
+Playing Loldle
 Best initial guess: Zilean
 Enter feedback: RROGRRH
 Candidates left after filtering: 9
@@ -70,12 +71,18 @@ GRGGGRG
 The character is: Fiora
 ```
 
-## About Loldle.net
+## About
 
-This tool is designed to assist players in the **Loldle Classic mode** available at:
-🔗 [Loldle.net](https://loldle.net/classic)
+This tool is designed to assist players in the **Classic modes** of the following sites:
 
-> **Disclaimer**: This is an independent project and is not affiliated with Riot Games or Loldle.net.
+- [Loldle.net](https://loldle.net/classic)
+- [Pokedle.net](https://pokedle.net/classic)
+- [Onepiecedle.net](https://onepiecedle.net/classic)
+- [Narutodle.net](https://narutodle.net/classic)
+- [Smashdle.net](https://smashdle.net/classic)
+- [Dotadle.net](https://dotadle.net/classic)
+
+> **Disclaimer**: This is an independent project and is not affiliated with any of the websites mentioned above, nor with any game or anime.
 
 ## License
 
