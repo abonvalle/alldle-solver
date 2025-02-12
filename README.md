@@ -21,7 +21,7 @@ cd alldle-solver
 ### 2️⃣ Create & Activate a Virtual Environment
 
 ```sh
-python3 -m venv venv
+python3 -m venv .alldle_env
 source ./venv/bin/activate
 ```
 
@@ -41,11 +41,13 @@ python3 app.py
 
 The script will ask you the game you're playing, suggest the best initial guess and prompt you to enter feedback after each guess.
 
-you can start faster with :
+you can play faster with :
 
 ```sh
-python3 app.py -g Loldle -s Singed
+python3 app.py -g Loldle -s Singed -f -q
 ```
+
+See the [CLI Arguments](#cli_Arguments) section below for a full description.
 
 ## How to Play
 
@@ -70,6 +72,59 @@ Next best guess: Vi
 GRGGGRG
 The character is: Fiora
 ```
+
+## CLI Arguments
+
+The ALLDLE Solver script uses the argparse module to handle command-line arguments, allowing users to customize their gameplay experience. Below is a detailed description of each argument:
+
+`--game` or `-g`
+
+- Type: `str`
+- Default: `None` (You can select the game before guessing)
+- Description: Specifies the name of the game to start the app with.
+- Usage Example:
+
+```sh
+python3 app.py --game Loldle
+```
+
+---
+
+`--start_with` or `-s`
+
+- Type: `str`
+- Default: `None` (You can select the character later)
+- Description: Defines the first word guess to begin the game.
+- Usage Example:
+
+```sh
+python3 app.py -g Loldle --start_with Singed
+```
+
+---
+
+`--fast_game` or `-f`
+
+- Type: `flag` (No value required, `store_true`)
+- Description: Activates the fast game mode, where the solver automatically picks the best possible guess without user intervention.
+- Usage Example:
+
+```sh
+python3 app.py --fast_game
+```
+
+---
+
+- `--quiet` or `-q`
+- Type: `flag` (No value required, `store_true`)
+- Description: Runs the script in quiet mode, suppressing verbose output.
+- Usage Example:
+
+```sh
+python3 app.py --quiet
+```
+
+---
 
 ## About
 

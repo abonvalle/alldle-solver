@@ -5,6 +5,7 @@ from constants import AVAILABLE_GAMES, FEEDBACKS
 from custom_types import GamePropertyClass, GameClass
 from bcolors import bcolors
 from typing import  Literal
+from unidecode import unidecode
 import argparse
 
 global VERBOSE
@@ -169,7 +170,24 @@ def get_user_feedback(properties:list[GamePropertyClass]):
             print_invalid_feedback(properties)
             feedback = None
             continue 
-    return feedback 
+    return feedback
+
+def get_user_guess(df:pd.DataFrame,guess_property_name:str):
+    guess = pd.Series()
+    while guess.empty:
+        if VERBOSE:
+            inputTxt = f"Enter the character name you guessed: \n"
+        else:
+            inputTxt = f"Enter guess: \n"
+        guessName = unidecode(input(inputTxt).strip().lower())
+        guess = next((row for _, row in df.iterrows() if unidecode(str(row[guess_property_name]).lower()) == guessName), pd.Series())
+        
+        if guess.empty:
+            print(f"{bcolors.WARNING}Invalid guess!{bcolors.ENDC}")
+            if VERBOSE:
+                print(f"Valid guesses are: {', '.join(df[guess_property_name].values)}")
+            continue
+    return guess
    
 # Main game loop
 def alldle_solver(selected_game:GameClass, df:pd.DataFrame, first_guess:str):
@@ -177,19 +195,31 @@ def alldle_solver(selected_game:GameClass, df:pd.DataFrame, first_guess:str):
     properties = [prop for prop in selected_game["properties"] if prop["type"] != "guess"]
     guess_property_name = next((prop for prop in selected_game["properties"] if prop["type"] == "guess"), None)["name"]
     remaining_candidates = df.copy()
+    pass_guess = False
+    if first_guess != None:
+        user_guess = next((row for _, row in df.iterrows() if unidecode(str(row[guess_property_name]).lower()) == unidecode(first_guess.lower())), pd.Series())
+        if user_guess.empty:
+            print(f"{bcolors.WARNING}Invalid guess!{bcolors.ENDC}")
+            return
+        else:
+            pass_guess = True
     
     while len(remaining_candidates) > 1:
- 
-        remaining_candidates = compute_every_elimination_score(remaining_candidates,properties,guess_property_name)
-        best_guess = remaining_candidates.loc[remaining_candidates["elimination_score"].idxmax()]
-        print_remaining_candidates(remaining_candidates,guess_property_name)
-        print_best_guess(best_guess,guess_property_name)
+        if pass_guess == False:
+            remaining_candidates = compute_every_elimination_score(remaining_candidates,properties,guess_property_name)
+            best_guess = remaining_candidates.loc[remaining_candidates["elimination_score"].idxmax()]
+            print_remaining_candidates(remaining_candidates,guess_property_name)
+            print_best_guess(best_guess,guess_property_name)
+
+            # Get user guess
+            user_guess = get_user_guess(df,guess_property_name) if not FAST_GAME else best_guess
         
+        pass_guess = False
         # Get user feedback
         feedback = get_user_feedback(properties)
           
         # Filter remaining candidates
-        remaining_candidates = filter_candidates(remaining_candidates, best_guess, feedback, properties)
+        remaining_candidates = filter_candidates(remaining_candidates, user_guess, feedback, properties)
                
     if remaining_candidates.empty:
         print(f"{bcolors.BOLD}{bcolors.FAIL}No valid candidates left! Please check the feedback entered.{bcolors.ENDC}")
@@ -197,10 +227,10 @@ def alldle_solver(selected_game:GameClass, df:pd.DataFrame, first_guess:str):
         print_result(remaining_candidates[guess_property_name].values[0])
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Start the app with the game of your choice")
+    parser = argparse.ArgumentParser(description="ALLDLE Solver")
     parser.add_argument("--game","-g", type=str,default=None, help="The game to start the app with")
     parser.add_argument("--start_with", "-s", type=str, help="The first guess to start the game with")
-    parser.add_argument("--fast_game", "-f", action='store_true', help="Whether the game should be played in fast mode (feedback only)")
+    parser.add_argument("--fast_game", "-f", action='store_true', help="Whether you can choose the guess or not (best guess will be chosen)")
     parser.add_argument("--quiet", "-q", action='store_true',default=False, help="Whether the script should be verbose or not")
     args = parser.parse_args()
     VERBOSE = not args.quiet
